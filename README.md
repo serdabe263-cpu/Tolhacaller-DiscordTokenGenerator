@@ -7,3 +7,4 @@ The only requirement to access the generator password is to join our Discord ser
 
 Once you have joined the server, you will be able to obtain the password needed to use the generator. No payment is required.
 
+https://github.com/user-attachments/assets/993d1bbd-cd36-4464-a152-674ea848ae6f
